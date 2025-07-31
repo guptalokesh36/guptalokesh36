@@ -5,49 +5,45 @@
 ---
 
 ## 🛠️ Tech I Use
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 
 ## 🚀 What I do
-- Build **scalable, role-based dashboards** with React & Next.js
-- Focus on **clean architecture, reusable components & SSR**
-- Implement **auth, payments (Stripe), i18n, and real-time features** (Firebase)
-- Write modern, maintainable **TypeScript** code
-- Optimize apps for **performance, responsiveness & SEO**
+- Build **role-based dashboards** and scalable web apps with React & Next.js
+- Focus on **clean architecture, reusable components, SSR & SEO**
+- Integrate **auth, real-time features (Firebase), and multi-language support**
+- Write maintainable, modern **TypeScript** code
+- Optimize performance, responsiveness, and bundle size
 
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptalokesh36&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptalokesh36&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guptalokesh36&show_icons=true&theme=github_dark&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptalokesh36&layout=compact&theme=github_dark&hide_border=true" width="42%" />
 </p>
 
 ---
 
 ## 🌱 Currently
-- Working at **Contriverz** as a React/Next.js frontend developer
-- Exploring **React 19, App Router, Shadcn UI, Radix UI**
-- Learning **Jest & Testing Library** for better test coverage
+- Frontend Developer at **Contriverz**, building React/Next.js apps
+- Exploring modern frontend tools & best practices
 
 ---
 
 ## 📫 Reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/guptalokesh36/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:guptalokesh36@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/guptalokesh36)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guptalokesh36/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guptalokesh36)
 
 ---
 
 ⚡ *“Write code that not only works, but stays clean and maintainable.”*
-
 
 <!--
 **guptalokesh36/guptalokesh36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
